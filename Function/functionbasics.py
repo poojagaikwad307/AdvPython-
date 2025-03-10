@@ -2,7 +2,7 @@
 print("welcome to the class.")
 
 for i in range(1,25):
-   print(f"print this line{1}")
+   print(f"print this line{1}") 
 
 
    def add(x,y):
